@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run potential_customer_prediction_web_app.py
